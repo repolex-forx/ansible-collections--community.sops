@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "community.sops",
+  "versions": [
+    {
+      "commit": "3c2d6f9c8454123d77c515cd789198937fa73ffe",
+      "tag": "",
+      "parsed_at": "2026-11-07T14:02:41.585984+00:00"
+    }
+  ]
+}
